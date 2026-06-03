@@ -1,3 +1,4 @@
+<img width="2711" height="2040" alt="portfolio_analysis" src="https://github.com/user-attachments/assets/8fc41594-175a-4e82-a69b-439686101f97" />
 # Monte Carlo Portfolio Risk Simulator
 
 A Monte Carlo simulator that projects portfolio value under Geometric Brownian Motion
